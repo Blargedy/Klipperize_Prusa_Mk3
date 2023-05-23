@@ -12,5 +12,5 @@ That being said, I designed the printer to use the [Rapid Burner](https://github
 * Rapido UHF
 * Sherpa Mini with RIDGA modification
 * EBB36 CANbus toolhead PCB
-* SKR e3 v2
-* Raspberry Pi 4 running Klipper.
+* SKR mini e3 v2
+* Raspberry Pi 4 running Klipper
