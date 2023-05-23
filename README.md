@@ -11,6 +11,6 @@ That being said, I designed the printer to use the [Rapid Burner](https://github
 * Rapid Burner in slideswipe configuration
 * Rapido UHF
 * Sherpa Mini with RIDGA modification
-* EBB466 CANbus toolhead PCB
+* EBB36 CANbus toolhead PCB
 * SKR e3 v2
 * Raspberry Pi 4 running Klipper.
