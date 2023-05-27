@@ -14,3 +14,5 @@ That being said, I designed the printer to use the [Rapid Burner](https://github
 * EBB36 CANbus toolhead PCB
 * SKR mini e3 v2
 * Raspberry Pi 4 running Klipper
+The stock prusa toolhead weighs 550g, depending on how you weigh the wires and bearings.
+The Prusa adapted Rapid Burner weighs 334g, a weight saving of 216g. That's a lot of inertia that doesn't need to be thrown around.
