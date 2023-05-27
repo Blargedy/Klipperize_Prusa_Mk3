@@ -14,5 +14,19 @@ That being said, I designed the printer to use the [Rapid Burner](https://github
 * EBB36 CANbus toolhead PCB
 * SKR mini e3 v2
 * Raspberry Pi 4 running Klipper
-The stock prusa toolhead weighs 550g, depending on how you weigh the wires and bearings.
-The Prusa adapted Rapid Burner weighs 334g, a weight saving of 216g. That's a lot of inertia that doesn't need to be thrown around.
+
+## Benefits
+* The stock prusa toolhead weighs 550g, depending on how you weigh the wires and bearings. The Prusa adapted Rapid Burner weighs 334g, a weight saving of 216g
+* The stock E3D V6 hotend has a volumetric flow limit of around 20 mm<sup>3</sup>/s, 25 mm<sup>3</sup>/s with a CHT nozzle. The Rapido UHF, with a 0.4mm Volcano nozzle has a flow limit of 24.1 mm<sup>3</sup>/s, 29 mm<sup>3</sup>/s with a CHT nozzle. Higher flow rate means faster prints. 
+* Input Shaping
+* Fan headers allow more fans, and are easy to control with software
+* Klipper's error logging is extensive, unlike prusa's error logging
+* Macros
+* The part cooling fans of the Rapid Burner are stronger than the Mk3's single blower fan
+* RGBLEDs go brr
+* Can use buttons as triggers for code, making predetermined tasks such as preheat much faster
+* Filament diameter compensation
+* Easier object exclusion
+* Finer control on heater/stepper turn off
+* Wait on chamber thermistor for automatic chamber heating
+* Finer control over bed mesh pattern
