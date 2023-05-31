@@ -7,6 +7,8 @@ That being said, I designed the printer to use the [Rapid Burner](https://github
 
 ![image](https://github.com/Blargedy/Klipperize_Prusa_Mk3/assets/25805271/27b99a66-9c8d-4350-8c39-771e79116d10)
 ![20230531_014453](https://github.com/Blargedy/Klipperize_Prusa_Mk3/assets/25805271/6077124e-105c-49ce-9f65-2031fd94c15b)
+![20230531_014504](https://github.com/Blargedy/Klipperize_Prusa_Mk3/assets/25805271/508382e7-c8db-43b7-a8c6-d2d966f17397)
+
 
 **My hardware configuration is as follows:**
 * Rapid Burner in slideswipe configuration
