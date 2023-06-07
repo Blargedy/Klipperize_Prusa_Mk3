@@ -33,3 +33,26 @@ That being said, I designed the printer to use the [Rapid Burner](https://github
 * Finer control on heater/stepper turn off
 * Wait on chamber thermistor for automatic chamber heating
 * Finer control over bed mesh pattern
+
+## BoM
+* 3 x MLX 42021 female crimp 2 circuit recepticle [Digikey](https://www.digikey.ca/en/products/detail/molex/0050841020/134710)
+* 3 x MLX 42022 male crimp 2 circuit recepticle [Digikey](https://www.digikey.ca/en/products/detail/molex/0050842022/2405413)
+* 1 x MLX 42021 female crimp 4 circuit recepticle [Digikey](https://www.digikey.ca/en/products/detail/molex/0050841045/2405428)
+* 1 x MLX 42022 male crimp 4 circuit recepticle [Digikey](https://www.digikey.ca/en/products/detail/molex/0050842042/2405411)
+* 10 x MLX 36536 male crimps [Digikey](https://www.digikey.ca/en/products/detail/molex/0365360001/3185301)
+* 10 x MLX 36535 female crimps [Digikey](https://www.digikey.ca/en/products/detail/molex/0365350001/3185298)
+* ~1m 16awg wire (two colors)
+* ~50cm 18awg wire (two colors)
+* ~1m 20/22awg wire (three or more colors)
+* 1 x SKR Mini e3 v2
+* 1 x Raspberry pi 3/4
+* 1 x BigTreeTech U2C 
+* 1 x BigTreeTech EBB36 CANbus
+* 1 x 140mm Fan
+* 16cm x 25cm mosquito net or wide pored cloth
+* 2 pin microfit 3 connectors
+* 4 pin microfit 3 connectors
+* 12 pin microfit 3 connectors
+* 14 pin microfit 3 connectors
+* 4 x 6mmx3mm circular magnets
+* M3 Hardware
