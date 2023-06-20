@@ -56,3 +56,6 @@ That being said, I designed the printer to use the [Rapid Burner](https://github
 * 14 pin microfit 3 connectors
 * 4 x 6mmx3mm circular magnets
 * M3 Hardware
+
+## Suggestions
+* when soldering leads onto the bead thermistor that goes into the heat creep sensing pocket, try to make the solder joint as thin as possible, or you'll encounter clearance issues with the cable channel
