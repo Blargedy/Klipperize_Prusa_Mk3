@@ -57,5 +57,10 @@ That being said, I designed the printer to use the [Rapid Burner](https://github
 * 4 x 6mmx3mm circular magnets
 * M3 Hardware
 
+## Printing Notes
+* add negative volumes to the edges of the x axis ends
+  ![image](https://github.com/Blargedy/Klipperize_Prusa_Mk3/assets/25805271/c544ea6a-baab-454b-b99f-2fd0a37938a5)
+
+
 ## Suggestions
 * when soldering leads onto the bead thermistor that goes into the heat creep sensing pocket, try to make the solder joint as thin as possible, or you'll encounter clearance issues with the cable channel
